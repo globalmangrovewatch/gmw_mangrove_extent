@@ -16,7 +16,7 @@ A clear and concise description of what the error is.
 2. GMW Extent Year: 
 3. Location (either upload file or provide lat/lon):
 
-**Expected behavior**
+**Expected Behaviour**
 What should it look like? Is it an area where we have over or under classified? Problems within the habitat mask
 
 **Screenshots**
@@ -27,5 +27,5 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 
-** Attachment **
+**Attachment**
 Can you point us to another map which captures this area well or provide a polygon(s) to show have to resolve it?
