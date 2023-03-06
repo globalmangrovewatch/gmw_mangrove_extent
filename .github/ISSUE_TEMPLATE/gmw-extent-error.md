@@ -2,7 +2,7 @@
 name: GMW Extent Error
 about: Create a report to help us improve the GMW Extent Mask
 title: ''
-labels: bug
+labels: enhancement
 assignees: petebunting
 
 ---
